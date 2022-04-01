@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jlopezr/go-grpc-http-rest-microservice-tutorial/pkg/cmd/server"
+	server "github.com/jlopezr/go-grpc-http-rest-microservice-tutorial/pkg/cmd/server"
 )
 
 func main() {
